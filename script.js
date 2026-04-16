@@ -8,9 +8,9 @@ themeToggleBtn.addEventListener('click', () => {
     
     // Altera o texto do botão
     if (body.classList.contains('dark-mode')) {
-        themeToggleBtn.textContent = '☀️ Light Mode';
+        themeToggleBtn.textContent = '☀️ Modo Claro';
     } else {
-        themeToggleBtn.textContent = '🌙 Dark Mode';
+        themeToggleBtn.textContent = '🌙 Modo Escuro';
     }
 });
 
@@ -26,7 +26,7 @@ const projetosData = [
         id: 2,
         titulo: "Portfólio Dinâmico (React)",
         descricao: "Evolução do portfólio base. Refatorado para a biblioteca React usando Vite, com arquitetura baseada em componentes e gerenciamento de estado (useState).",
-        link: "#"
+        link: "https://meu-repositorio-react-sooty.vercel.app/"
     }
 ];
 
