@@ -27,12 +27,6 @@ const projetosData = [
         titulo: "Portfólio Dinâmico (React)",
         descricao: "Evolução do portfólio base. Refatorado para a biblioteca React usando Vite, com arquitetura baseada em componentes e gerenciamento de estado (useState).",
         link: "#"
-    },
-    {
-        id: 3,
-        titulo: "Calculadora Web",
-        descricao: "Projeto em desenvolvimento: Uma calculadora funcional construída do zero, aplicando lógica de programação para manipulação de DOM e operações matemáticas.",
-        link: "#"
     }
 ];
 
