@@ -20,7 +20,7 @@ const projetosData = [
         id: 1,
         titulo: "Meu Portfólio Base (HTML/CSS/JS)",
         descricao: "Meu primeiro portfólio desenvolvido como projeto de aprendizado, focado em semântica HTML, estilização com CSS puro (Grid/Flexbox) e interatividade com JavaScript.",
-        link: "#"
+        link: "https://elizabethteixeira.github.io/meu-portfolio-base/"
     },
     {
         id: 2,
